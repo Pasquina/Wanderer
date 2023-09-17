@@ -15,7 +15,7 @@ by Milan Vydareny
 This is a simple answer. 
 - I really want to just bog and write without all the hassles of the fancy themes and templates that other blogging sites make you use.
 - I also want to be able to blog using Markdown, which is a lot more sensible than all of the on-line editors that really just get in the way of rapid communmications flowing from your heart brains and hands.
-- 
+
 ## The Experience
 
 In general, I don't do very well with instructions of the form, Click this, then click that, then type this in the edit box, and so forth. Step-by-step is not my cup of tea. Yet that's what GitHub provides as you attempt to navigate the vagaries of a Git based website. Furthermore, my direct expereience with the Githug interface is limited. As a developer I typically use Atlassian's SourceTree for repository actions, hence there was a bit of a learning curve involved in getting things to work correctly.
